@@ -1,0 +1,21 @@
+{
+    "name": "rogeecn/yii2-simditor",
+    "description": "Simditor for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","editor","simditor"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "rogee",
+            "email": "rogeecn@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Simditor\\": "src"
+        }
+    }
+}
